@@ -1,13 +1,12 @@
-# Screenshot evidence
+# Sara Assignment 2 Evidence
 
-Add genuine screenshots for the steps listed in the assignment report:
+These genuine screenshots document the RStudio environment, portfolio, data import, summary statistics, chart output, generated files, and GitHub repository structure.
 
-1. R installation/version confirmation.
-2. RStudio Desktop installed and opened.
-3. quantmod and TTR package installation and versions.
-4. portfolio.txt contents.
-5. Script importing data and printing statistics.
-6. Generated chart and output directory.
-7. TechnicalAnalysis repository with Assignment_2 files.
-
-Do not use example images as evidence of installation or execution.
+- `sara_rstudio_environment.png`
+- `sara_successful_data_import.png`
+- `sara_summary_statistics_part1.png`
+- `sara_summary_statistics_part2.png`
+- `sara_generated_outputs_folder.png`
+- `sara_shop_adjusted_close_sma20.png`
+- `sara_github_assignment2_folder.png`
+- `sara_github_repository_root.png`
