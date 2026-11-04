@@ -1,0 +1,4 @@
+# Sample coursework portfolio; revise these tickers if required.
+SHOP.TO
+RY.TO
+TD.TO
