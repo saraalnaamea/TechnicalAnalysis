@@ -1,0 +1,4 @@
+# Stock symbols for this Assignment 5 project.
+SHOP.TO
+RY.TO
+TD.TO
